@@ -1,9 +1,9 @@
 #!/bin/bash
-git branch Postman
-git branch Jmeter
-git branch CheckLists
-git branch Bag_Reports
-git branch SQL
-git branch Charles
-git branch Mobile_testing
+git branch postman
+git branch jmeter
+git branch checklists
+git branch bag_reports
+git branch sql
+git branch charles
+git branch mobile_testing
 git push --all origin
