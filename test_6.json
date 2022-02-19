@@ -1,1 +1,7 @@
-{"lesson": "Git"}
+<<<<<<< HEAD
+{"lesson": "git",
+"name": "evgen"}
+=======
+{"lesson": "git",
+"name": "evgen"}
+>>>>>>> apple_pay
